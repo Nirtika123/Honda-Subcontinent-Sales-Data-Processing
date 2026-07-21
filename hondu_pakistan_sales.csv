@@ -1,0 +1,31 @@
+Sale_ID,Month,Model,Segment,Sales_Units,Listed_Price_PKR,Customer_Rating_Out_of_10,Discount_Percentage
+PK001,Dec_2025,Hondu Activaa 125,Scooter,9901,483800,9.0,6.5
+PK002,Dec_2025,Hondu Diyo 110,Scooter,943,454200,7.8,8.9
+PK003,Dec_2025,Hondu Shiny 125,Commuter Bike,6132,452300,8.8,7.3
+PK004,Dec_2025,Hondu Unicod 160,Commuter Bike,2593,613500,9.0,5.2
+PK005,Dec_2025,Hondu Highness 350,Premium Bike,148,1208400,8.8,6.5
+PK006,Jan_2026,Hondu Activaa 125,Scooter,12556,458400,8.6,9.0
+PK007,Jan_2026,Hondu Diyo 110,Scooter,1820,424100,8.2,9.0
+PK008,Jan_2026,Hondu Shiny 125,Commuter Bike,8045,459600,8.0,7.7
+PK009,Jan_2026,Hondu Unicod 160,Commuter Bike,3061,625000,8.6,11.3
+PK010,Jan_2026,Hondu Highness 350,Premium Bike,606,1109000,8.8,11.9
+PK011,Feb_2026,Hondu Activaa 125,Scooter,15105,471700,8.8,6.0
+PK012,Feb_2026,Hondu Diyo 110,Scooter,1932,430000,7.6,12.1
+PK013,Feb_2026,Hondu Shiny 125,Commuter Bike,11745,460700,8.6,8.6
+PK014,Feb_2026,Hondu Unicod 160,Commuter Bike,3420,619700,9.0,11.6
+PK015,Feb_2026,Hondu Highness 350,Premium Bike,275,1135300,8.6,6.8
+PK016,Mar_2026,Hondu Activaa 125,Scooter,14355,488200,8.4,7.5
+PK017,Mar_2026,Hondu Diyo 110,Scooter,1665,417000,8.4,6.4
+PK018,Mar_2026,Hondu Shiny 125,Commuter Bike,7737,438300,8.8,12.4
+PK019,Mar_2026,Hondu Unicod 160,Commuter Bike,2013,637400,8.2,5.8
+PK020,Mar_2026,Hondu Highness 350,Premium Bike,601,1199700,9.0,6.5
+PK021,Apr_2026,Hondu Activaa 125,Scooter,20194,464100,9.0,11.2
+PK022,Apr_2026,Hondu Diyo 110,Scooter,1401,451200,8.6,10.9
+PK023,Apr_2026,Hondu Shiny 125,Commuter Bike,15669,463800,8.2,10.2
+PK024,Apr_2026,Hondu Unicod 160,Commuter Bike,2688,582500,8.4,11.9
+PK025,Apr_2026,Hondu Highness 350,Premium Bike,284,1165800,8.6,6.2
+PK026,May_2026,Hondu Activaa 125,Scooter,18938,457900,8.4,8.6
+PK027,May_2026,Hondu Diyo 110,Scooter,1711,438600,7.8,9.4
+PK028,May_2026,Hondu Shiny 125,Commuter Bike,7274,460100,8.0,7.0
+PK029,May_2026,Hondu Unicod 160,Commuter Bike,3268,679000,8.6,5.7
+PK030,May_2026,Hondu Highness 350,Premium Bike,465,1221200,9.2,9.6

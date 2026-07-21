@@ -1,0 +1,31 @@
+Sale_ID,Month,Model,Segment,Sales_Units,Listed_Price_INR,Customer_Rating_Out_of_5,Discount_INR
+IN001,Dec_2025,Hondu Activaa 125,Scooter,181604,92400,4.3,3900
+IN002,Dec_2025,Hondu Diyo 110,Scooter,18609,85700,4.2,3100
+IN003,Dec_2025,Hondu Shiny 125,Commuter Bike,125266,85600,4.1,2900
+IN004,Dec_2025,Hondu Unicod 160,Commuter Bike,33640,120200,4.1,6400
+IN005,Dec_2025,Hondu Highness 350,Premium Bike,2560,224400,4.7,9800
+IN006,Jan_2026,Hondu Activaa 125,Scooter,271924,90100,4.4,3100
+IN007,Jan_2026,Hondu Diyo 110,Scooter,25462,86800,4.1,5600
+IN008,Jan_2026,Hondu Shiny 125,Commuter Bike,135076,92300,4.1,3500
+IN009,Jan_2026,Hondu Unicod 160,Commuter Bike,35710,125000,4.2,5300
+IN010,Jan_2026,Hondu Highness 350,Premium Bike,7802,222300,4.5,13500
+IN011,Feb_2026,Hondu Activaa 125,Scooter,254449,90000,4.3,3400
+IN012,Feb_2026,Hondu Diyo 110,Scooter,28227,81900,4.3,5600
+IN013,Feb_2026,Hondu Shiny 125,Commuter Bike,138438,87000,4.3,3800
+IN014,Feb_2026,Hondu Unicod 160,Commuter Bike,36317,117700,4.4,2700
+IN015,Feb_2026,Hondu Highness 350,Premium Bike,4099,221000,4.5,12600
+IN016,Mar_2026,Hondu Activaa 125,Scooter,259670,93400,4.3,5400
+IN017,Mar_2026,Hondu Diyo 110,Scooter,31180,82800,4.1,4800
+IN018,Mar_2026,Hondu Shiny 125,Commuter Bike,146657,88700,4.4,3200
+IN019,Mar_2026,Hondu Unicod 160,Commuter Bike,34358,124700,4.2,6600
+IN020,Mar_2026,Hondu Highness 350,Premium Bike,6888,225800,4.4,10600
+IN021,Apr_2026,Hondu Activaa 125,Scooter,220774,94100,4.5,3800
+IN022,Apr_2026,Hondu Diyo 110,Scooter,27083,88200,3.9,4000
+IN023,Apr_2026,Hondu Shiny 125,Commuter Bike,168636,94700,3.9,5000
+IN024,Apr_2026,Hondu Unicod 160,Commuter Bike,39310,119600,4.1,2700
+IN025,Apr_2026,Hondu Highness 350,Premium Bike,6080,224500,4.3,9700
+IN026,May_2026,Hondu Activaa 125,Scooter,228955,94500,4.6,4600
+IN027,May_2026,Hondu Diyo 110,Scooter,23814,89200,4.2,5300
+IN028,May_2026,Hondu Shiny 125,Commuter Bike,140901,94900,4.3,2500
+IN029,May_2026,Hondu Unicod 160,Commuter Bike,34925,129000,4.3,5600
+IN030,May_2026,Hondu Highness 350,Premium Bike,6306,227600,4.5,10900

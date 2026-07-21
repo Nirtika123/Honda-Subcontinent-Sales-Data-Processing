@@ -1,0 +1,31 @@
+Sale_ID,Month,Model,Segment,Sales_Units,Listed_Price_BDT,Customer_Rating_Out_of_5,Discount_BDT
+BD001,Dec_2025,Hondu Activaa 125,Scooter,10484,152400,4.4,8200
+BD002,Dec_2025,Hondu Diyo 110,Scooter,1369,151000,4.1,4400
+BD003,Dec_2025,Hondu Shiny 125,Commuter Bike,5770,145600,4.0,8200
+BD004,Dec_2025,Hondu Unicod 160,Commuter Bike,1522,202400,4.2,5900
+BD005,Dec_2025,Hondu Highness 350,Premium Bike,181,392600,4.3,22000
+BD006,Jan_2026,Hondu Activaa 125,Scooter,13486,151600,4.1,7300
+BD007,Jan_2026,Hondu Diyo 110,Scooter,1547,145700,4.2,7700
+BD008,Jan_2026,Hondu Shiny 125,Commuter Bike,9686,151300,4.4,12000
+BD009,Jan_2026,Hondu Unicod 160,Commuter Bike,2540,228700,4.3,10200
+BD010,Jan_2026,Hondu Highness 350,Premium Bike,516,375600,4.5,26200
+BD011,Feb_2026,Hondu Activaa 125,Scooter,12716,165600,4.2,10000
+BD012,Feb_2026,Hondu Diyo 110,Scooter,1203,138400,4.0,6500
+BD013,Feb_2026,Hondu Shiny 125,Commuter Bike,8144,142800,4.4,8100
+BD014,Feb_2026,Hondu Unicod 160,Commuter Bike,2137,196200,4.2,8800
+BD015,Feb_2026,Hondu Highness 350,Premium Bike,297,380700,4.4,19900
+BD016,Mar_2026,Hondu Activaa 125,Scooter,19413,164200,4.2,4100
+BD017,Mar_2026,Hondu Diyo 110,Scooter,2306,142500,3.8,6100
+BD018,Mar_2026,Hondu Shiny 125,Commuter Bike,5468,148100,4.3,10500
+BD019,Mar_2026,Hondu Unicod 160,Commuter Bike,1847,219300,4.1,5900
+BD020,Mar_2026,Hondu Highness 350,Premium Bike,443,394400,4.3,13000
+BD021,Apr_2026,Hondu Activaa 125,Scooter,9427,155600,4.4,9200
+BD022,Apr_2026,Hondu Diyo 110,Scooter,1298,144300,4.0,8700
+BD023,Apr_2026,Hondu Shiny 125,Commuter Bike,8169,161400,4.2,10700
+BD024,Apr_2026,Hondu Unicod 160,Commuter Bike,2083,217200,4.1,6200
+BD025,Apr_2026,Hondu Highness 350,Premium Bike,314,375800,4.6,24300
+BD026,May_2026,Hondu Activaa 125,Scooter,8993,159700,4.5,8900
+BD027,May_2026,Hondu Diyo 110,Scooter,882,158000,4.1,5600
+BD028,May_2026,Hondu Shiny 125,Commuter Bike,8132,161400,4.2,6000
+BD029,May_2026,Hondu Unicod 160,Commuter Bike,1948,234100,4.0,5100
+BD030,May_2026,Hondu Highness 350,Premium Bike,384,375600,4.2,15900
